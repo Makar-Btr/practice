@@ -1,0 +1,2 @@
+Apple, SmartPhones, 10000
+Poco F3, SmartPhones, 1000

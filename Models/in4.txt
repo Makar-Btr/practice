@@ -1,0 +1,2 @@
+Apple, 5, SmartPhones
+Poco F3, 3, SmartPhones

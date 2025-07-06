@@ -1,0 +1,4 @@
+Apple, 5, SmartPhones
+Nokia, 10, Phones
+Poco F3, 3, SmartPhones
+Samsung Age, 7, SmartPhones

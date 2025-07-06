@@ -1,0 +1,2 @@
+Nokia, 10, Phones
+Samsung Age, 7, SmartPhones
